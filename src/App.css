@@ -1,0 +1,23 @@
+.app {
+  height: 100vh;
+}
+
+/* header */
+
+.logo {
+  margin-right: 1rem;
+  font-size: 1.5rem;
+  color: crimson;
+}
+
+nav li {
+  margin-right: 1rem;
+  list-style: none;
+  text-transform: uppercase;
+}
+
+/* header */
+
+.footer p {
+  font-size: 0.8rem;
+}
